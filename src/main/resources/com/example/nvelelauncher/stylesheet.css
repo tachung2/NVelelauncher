@@ -1,0 +1,22 @@
+.parent {
+    -fx-background-color: #303138;
+}
+.close-btn:pressed{
+    -fx-opacity: 0.5;
+}
+
+.close-btn:hover {
+    -fx-background-color: #E81123;
+}
+
+.min-btn:pressed{
+    -fx-opacity: 0.5;
+}
+
+.min-btn:hover {
+    -fx-background-color: #171717;
+}
+
+.imageview {
+    -fx-fillter: blur;
+}
